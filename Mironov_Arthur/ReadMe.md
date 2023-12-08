@@ -5,4 +5,4 @@
   Применение не максимального подавления или NMS, чтобы просто уменьшить локальные максимумы
   Наконец, приминение порогового значение гистерезиса, которое соответствует двум пороговым значениям T_upper и T_lower, которые используются в функции Canny().
 Ссылка на коллаб: https://colab.research.google.com/drive/1GacevVMUjuQ7mGPFFP0VErwWb-B-AZq9?usp=sharing
-2. Скрипт, который делает кадры из видео: https://colab.research.google.com/drive/1BZEWtNDojoTmehbH0iBYiMSFGDjw79Su?usp=sharing
+2. Скрипт, который делает кадры из видео: https://colab.research.google.com/drive/1rIsY0tnqyeqHjTZJirHNhzrbJVD9fHQc?usp=sharing
